@@ -20,5 +20,7 @@ Está incluso no projeto dois arquivos que vamos explorar ao longo dessa anális
 
 A base dos [dados_resultados.csv](https://raw.githubusercontent.com/iplusl/imersao-dados-desafio-final/main/Dados/dados_resultados.csv) contém o resultados dizendo quais inibidores e agonistas foram ativados para cada experimento anterior.
 
+Trabalhando com todos esses dados vamos tentar prever se houve ou não ativação dos inibidores e agonistas a partir dos resultados do experimento.
+
 ## Contato
 * [LinkeIn](https://www.linkedin.com/in/icaro-carneiro)
